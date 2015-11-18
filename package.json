@@ -1,6 +1,6 @@
 {
-  "name": "nodekr-bot",
-  "version": "1.0.0",
+  "name": "node-tweet-bot",
+  "version": "0.1.0",
   "description": "Twitter bot for NodeJS korean localization team",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/taggon/nodekr-bot.git"
+    "url": "git+https://github.com/taggon/node_tweet_bot.git"
   },
   "keywords": [
     "nodejs",
@@ -17,9 +17,9 @@
   "author": "Taegon Kim",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/taggon/nodekr-bot/issues"
+    "url": "https://github.com/taggon/node_tweet_bot/issues"
   },
-  "homepage": "https://github.com/taggon/nodekr-bot#readme",
+  "homepage": "https://github.com/taggon/node_tweet_bot#readme",
   "dependencies": {
     "feedparser": "^1.1.3",
     "request": "^2.65.0",
